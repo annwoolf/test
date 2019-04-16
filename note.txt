@@ -1,1 +1,3 @@
-var numberOne = 1;
+apple 
+bird 
+cat 

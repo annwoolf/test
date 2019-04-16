@@ -2,3 +2,6 @@ apple
 bird 
 cat 
 dog
+frog
+ice
+jack
